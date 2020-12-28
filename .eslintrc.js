@@ -20,5 +20,11 @@ module.exports = {
     '@typescript-eslint',
   ],
   rules: {
+    'react/jsx-filename-extension': [1, { extensions: ['.tsx'] }],
+    'jsx-a11y/label-has-associated-control': ['error', {
+      required: {
+        some: ['nesting', 'id'],
+      },
+    }],
   },
 };
