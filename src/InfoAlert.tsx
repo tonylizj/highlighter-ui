@@ -7,7 +7,7 @@ const sourceLocation = 'https://github.com/tonylizj/highlighter';
 const UISourceLocation = 'https://github.com/tonylizj/highlighter-ui';
 
 const InfoAlert = () => {
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
 
   return (
     <>
