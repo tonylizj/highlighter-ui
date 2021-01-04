@@ -55,7 +55,7 @@ function FormPage() {
           <div className="form-group row">
             <label className="col-sm-2 col-form-label" htmlFor="code">Code:</label>
             <div className="col-sm-10">
-              <Field className="form-control" as="textarea" name="code" type="text" rows={20} spellcheck="false" />
+              <Field className="form-control" as="textarea" name="code" type="text" rows={16} spellcheck="false" />
             </div>
           </div>
           <div className="form-group row">
