@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/highlighter-ui/static/css/main.fd3dd46a.chunk.css",
-    "main.js": "/highlighter-ui/static/js/main.4ef3f004.chunk.js",
+    "main.js": "/highlighter-ui/static/js/main.89cfc4bd.chunk.js",
     "runtime-main.js": "/highlighter-ui/static/js/runtime-main.62f4c5a0.js",
     "static/css/2.8000774e.chunk.css": "/highlighter-ui/static/css/2.8000774e.chunk.css",
     "static/js/2.73a4427a.chunk.js": "/highlighter-ui/static/js/2.73a4427a.chunk.js",
@@ -14,6 +14,6 @@
     "static/css/2.8000774e.chunk.css",
     "static/js/2.73a4427a.chunk.js",
     "static/css/main.fd3dd46a.chunk.css",
-    "static/js/main.4ef3f004.chunk.js"
+    "static/js/main.89cfc4bd.chunk.js"
   ]
 }
