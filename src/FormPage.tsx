@@ -52,16 +52,16 @@ function FormPage() {
         validate={(values) => validateForm(values)}
       >
         <Form>
-          <div className="form-group row">
+          <div className="mb-3 row">
             <label className="col-sm-2 col-form-label" htmlFor="code">Code:</label>
             <div className="col-sm-10">
               <Field className="form-control" as="textarea" name="code" type="text" rows={16} spellcheck="false" />
             </div>
           </div>
-          <div className="form-group row">
+          <div className="mb-3 row">
             <label className="col-sm-2 col-form-label" htmlFor="lang">Language:</label>
             <div className="col-sm-10">
-              <Field className="form-control" as="select" name="lang">
+              <Field className="form-select" as="select" name="lang">
                 <option value="typescript">Typescript</option>
                 <option value="javascript">Javascript</option>
                 <option value="c">C</option>
@@ -100,19 +100,17 @@ function FormPage() {
               </Field>
             </div>
           </div>
-          <div className="form-group row">
+          <div className="mb-3 row">
             <label className="col-sm-2 col-form-label" htmlFor="quality">Quality:</label>
             <div className="col-sm-10">
-              <Field className="form-control" as="select" name="quality">
+              <Field className="form-select" as="select" name="quality">
                 <option value="medium">Medium</option>
                 <option value="high">High</option>
                 <option value="extreme">Extreme</option>
               </Field>
             </div>
           </div>
-          <div className="form-group">
-            <button type="submit" className="btn btn-primary" disabled={submitting}>{submitting ? 'Please wait...' : 'Submit'}</button>
-          </div>
+          <button type="submit" className="btn btn-primary" disabled={submitting}>{submitting ? 'Please wait...' : 'Submit'}</button>
         </Form>
       </Formik>
     </div>
