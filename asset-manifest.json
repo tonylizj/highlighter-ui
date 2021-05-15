@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/highlighter-ui/static/css/main.fd3dd46a.chunk.css",
-    "main.js": "/highlighter-ui/static/js/main.89cfc4bd.chunk.js",
-    "runtime-main.js": "/highlighter-ui/static/js/runtime-main.62f4c5a0.js",
-    "static/css/2.8000774e.chunk.css": "/highlighter-ui/static/css/2.8000774e.chunk.css",
-    "static/js/2.73a4427a.chunk.js": "/highlighter-ui/static/js/2.73a4427a.chunk.js",
-    "static/js/3.a54db27c.chunk.js": "/highlighter-ui/static/js/3.a54db27c.chunk.js",
+    "main.js": "/highlighter-ui/static/js/main.e2d70d7c.chunk.js",
+    "runtime-main.js": "/highlighter-ui/static/js/runtime-main.4a56adfc.js",
+    "static/css/2.f47f7578.chunk.css": "/highlighter-ui/static/css/2.f47f7578.chunk.css",
+    "static/js/2.d4f2da9e.chunk.js": "/highlighter-ui/static/js/2.d4f2da9e.chunk.js",
     "index.html": "/highlighter-ui/index.html",
-    "static/js/2.73a4427a.chunk.js.LICENSE.txt": "/highlighter-ui/static/js/2.73a4427a.chunk.js.LICENSE.txt"
+    "static/js/2.d4f2da9e.chunk.js.LICENSE.txt": "/highlighter-ui/static/js/2.d4f2da9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62f4c5a0.js",
-    "static/css/2.8000774e.chunk.css",
-    "static/js/2.73a4427a.chunk.js",
+    "static/js/runtime-main.4a56adfc.js",
+    "static/css/2.f47f7578.chunk.css",
+    "static/js/2.d4f2da9e.chunk.js",
     "static/css/main.fd3dd46a.chunk.css",
-    "static/js/main.89cfc4bd.chunk.js"
+    "static/js/main.e2d70d7c.chunk.js"
   ]
 }
