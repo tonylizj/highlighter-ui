@@ -26,5 +26,9 @@ module.exports = {
         some: ['nesting', 'id'],
       },
     }],
+    // ignore function definition inconsistencies
+    'react/function-component-definition': [
+      'off',
+    ],
   },
 };
